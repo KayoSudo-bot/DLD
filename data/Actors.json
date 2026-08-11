@@ -1,8 +1,0 @@
-[
-null,
-{"id":1,"battlerName":"Shinku","characterIndex":0,"characterName":"Shinku_sheet","classId":1,"equips":[1,0,0,0,0],"faceIndex":0,"faceName":"Headshots","traits":[],"initialLevel":15,"maxLevel":99,"name":"Shinku","nickname":"Shinku ","note":"","profile":"A young warrior proficient in the art of the pen.\n"},
-{"id":2,"battlerName":"","characterIndex":0,"characterName":"Ismene","classId":4,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"Ismene Circe","nickname":"Ismene","note":"","profile":""},
-{"id":3,"battlerName":"","characterIndex":0,"characterName":"drac","classId":2,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"Dracul Tremblay","nickname":"Dracul","note":"","profile":""},
-{"id":4,"battlerName":"","characterIndex":0,"characterName":"Lyly","classId":2,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"Lyra Shatel","nickname":"Lyra","note":"","profile":""},
-{"id":5,"battlerName":"","characterIndex":0,"characterName":"takik","classId":3,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"Takiko Uchiyama","nickname":"Takiko","note":"","profile":""}
-]
