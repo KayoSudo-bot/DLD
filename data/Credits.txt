@@ -1,0 +1,89 @@
+<block:-1,-1,10,10,offbot,center,>
+CREDITS
+
+\c[2]Creator
+Rippilie
+
+\c[2]Engine
+RPG Maker MV
+
+\c[2]Plugin Programmer
+Galv
+Moghunter
+SMD
+Yanfly
+
+\c[2]Artwork
+Lavender-K
+Plate
+Rippilie
+Kurokishii
+Orencz
+Moonzei
+Eymori
+Saltyberry
+Cloverwizard03
+Delty
+Hykkari
+Welp
+RPG Maker MV
+
+\c[2]Executions
+Plate
+Lavender
+Vik
+Rippilie
+
+\c[2]Writers
+Rippilie
+
+\c[2]Music
+Yeecho
+SufferingKoala
+Grief
+Legan
+
+\c[2]Audio Mixing and Editing 
+DeigenVG
+
+\c[2]Voice Actors
+Shinku Kutsuki- Viperbyte
+Lyra Shatel- akp
+Alora Alenius- Mia.the_Artist
+Takiko Uchiyama- Yon
+Asuga Saintil- bblackroses
+Ismene Circe- SilverGlimse
+Taka Takahiro- DeigenVG
+Mint Byrne- Seeker_ODI
+Ezekiel Elias- IsmeVT
+Maiko Yuzuki- Rebecca Mondry-Zanaglio
+Dracul Tremblay- Chedhead
+Fu Wang- BlakeCVA
+Emilia Carmine- Cynderheart
+Mononeko- Sparrow Potter
+Eiichi Sakaguchi- V-Meister
+Akari Kutsuki- SandraS
+Additional Voices- TurgizeVA + JSharpVO
+
+
+\c[2]Beta Testers
+Sweetlokipuff
+Iris16
+Cherrysoda
+aka.riki
+Kurosu
+TurgizeVA
+Flamedlobotomy
+Ashykins
+Cobra
+
+\c[2]Special Thanks
+Autumn 
+Avery
+Wada_EXE
+\c[6]You! <3
+</block>
+
+<block:999,0,10,10,300,center,>
+Thanks for playing!
+</block>
